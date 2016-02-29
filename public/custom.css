@@ -1,0 +1,25 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    margin: auto;
+}
+
+h1, .input-group{
+    background-color: #4ebcff;
+    width: 50%;
+
+}
+.btn-link {
+    padding: 10px;
+    margin: auto;
+}
+
+.form-control {
+    width: 100%;
+    outline:none;
+}
+
+.login-status{
+    text-align: center;
+
+}
+
